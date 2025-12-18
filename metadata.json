@@ -1,0 +1,8 @@
+{
+  "name": "SheetTrack AI",
+  "description": "A sophisticated Google Sheets data tracker that monitors row additions, persists state via local storage, and provides AI-powered insights on new entries using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
